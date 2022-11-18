@@ -1,6 +1,4 @@
-### Hi there 👋
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=600&size=21&duration=6020&pause=80&color=63BA50&width=435&lines=Welcom+to+Kevin's+GitHub+%F0%9F%8E%8A;%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0+Kevin+%E7%9A%84+GitHub+%F0%9F%8E%8A)](https://git.io/typing-svg)
 
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinShih-689&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
