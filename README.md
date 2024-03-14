@@ -45,7 +45,3 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinshih-689&theme=gotham" alt="kevinshih-689" />
   </picture>
 </p>
-
-
-
-
