@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin   <img src="https://komarev.com/ghpvc/?username=kevinshih-689&label=Profile%20views&color=0e75b6&style=flat" alt="kevinshih-689" /></h1>
-<h3 align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08F7C9&center=true&vCenter=true&random=false&width=600&lines=A+passionate+frontend+developer+from+Taiwan+%F0%9F%87%B9%F0%9F%87%BC" alt="Typing SVG" /></h3>
+<h3 align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08F7C9&center=true&vCenter=true&random=false&width=600&lines=A+passionate+software+engineer+from+Taiwan+%F0%9F%87%B9%F0%9F%87%BC" alt="Typing SVG" /></h3>
 
 
 
