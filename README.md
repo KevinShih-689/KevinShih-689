@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kevin061215@gmail.com**
 
-- 📄 Know about my experiences [https://www.cakeresume.com/me/kevin-shih-263d13](https://www.cakeresume.com/me/kevin-shih-263d13)
+- 📄 Know about my experiences [Cake](https://www.cake.me/kevin-shih-263d13)   
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
